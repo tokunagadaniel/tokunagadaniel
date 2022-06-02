@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'am Daniel Tokunaga 👋
 
 ### Ferramentas e Tecnologias
 
