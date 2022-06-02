@@ -6,11 +6,11 @@ Follow me for more tips.
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://camo.githubusercontent.com/2cbbf5ca53964ce3051c6e93fbdd681459487365c5e0b9b7ab638587767506f9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/tokunagadaniel">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokunagadaniel&layout=compact&langs_count=7&theme=dracula"/> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tokunagadaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokunagadaniel&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokunagadaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos:
